@@ -415,6 +415,11 @@ class:
 - Revisitar a apresentação de hoje
 - Ler e explorar a documentação no site referentes às **UNIDADE 1**, **UNIDADE 2**, **UNIDADE 3**. 
 
+.large[
+.center[
+**NÃO TEREMOS AULA SEMANA QUE VEM, DIA 29/11!!!!!!**
+]
+]
 
 ---
 
